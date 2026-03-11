@@ -10,5 +10,6 @@ Thành viên nhóm
 
 | Bùi Minh Tín | 49.01.104.152 | 49.01.CNTT.B |
 | Cao Võ Tuấn Kiệt | 49.01.104.076 | 49.01.CNTT.B |
+| Nguyễn Thanh Bình | 49.01.104.012 | 49.01.CNTT.C |
 
 ---
