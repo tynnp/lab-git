@@ -1,10 +1,10 @@
 # README Lab 3
 
 ---
-Tên sinh viên: Nguyễn Ngọc Phú Tỷ
+Thành viên nhóm
 
-Mã số sinh viên: 49.01.104.172
-
-Lớp học phần: Nhập môn DevOps
+| Tên | Mã số sinh viên | Lớp |
+| --- | --- | --- |
+| Nguyễn Ngọc Phú Tỷ | 49.01.104.172 | 49.01.CNTT.B |
 
 ---
